@@ -1,7 +1,5 @@
 # Hello World 🥳
-Software developer working at [Analog Republic](https://analogrepublic.com/) focusing on web applications, with a hearty preference for React.
-
-Currently writing my first app in React Native!
+Software developer working at [Analog Republic](https://analogrepublic.com/) focusing on web applications, with a hearty preference for all things React/React Native, also like to write a lot of C#, and when I get the chance Go!
 
 ## What I write
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
