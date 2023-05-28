@@ -1,6 +1,5 @@
 # Hello World 🥳
-Senior developer at [AND.Digital](https://www.and.digital/) working on React Native.
-Also likes C#, Go and lately a bit of c++ 👀!
+Lead React Native Engineer @ [AND.Digital](https://www.and.digital/).
 
 ## What I write
 
@@ -21,6 +20,7 @@ Also likes C#, Go and lately a bit of c++ 👀!
 <a href="https://github.com/kieran-osgood/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieran-osgood&theme=radical" />
 </a>
+
 
 ![visitors](https://komarev.com/ghpvc/?username=kieran-osgood)
 
